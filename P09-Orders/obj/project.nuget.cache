@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yL7JVXz0v6jQHLe6QKpGyYtbwiBYv1cuk6JNDRebp5Zc6tamOOUsHlmvp4WlCzeQLpedT7pUrAlRUq7sRburw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Methods\\P09-Orders\\P09-Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

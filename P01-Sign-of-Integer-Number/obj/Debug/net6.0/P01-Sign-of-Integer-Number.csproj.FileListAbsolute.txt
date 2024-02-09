@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\bin\Debug\net6.0\P01-Sign-of-Integer-Number.exe
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\bin\Debug\net6.0\P01-Sign-of-Integer-Number.deps.json
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\bin\Debug\net6.0\P01-Sign-of-Integer-Number.runtimeconfig.json
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\bin\Debug\net6.0\P01-Sign-of-Integer-Number.dll
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\bin\Debug\net6.0\P01-Sign-of-Integer-Number.pdb
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.AssemblyInfo.cs
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.dll
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\refint\P01-Sign-of-Integer-Number.dll
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.pdb
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\P01-Sign-of-Integer-Number.genruntimeconfig.cache
+C:\Users\PC\source\repos\Methods\P01-Sign-of-Integer-Number\obj\Debug\net6.0\ref\P01-Sign-of-Integer-Number.dll

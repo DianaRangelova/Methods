@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kc1KkPZUdgT/qiG6QgSeMjXc3xqS4YFJMSI9CQZdZ2Du0HkGGKgm/IAdnI2a87ie086E6dwy4fCRKgAfi3FS4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Methods\\P02-Grades\\P02-Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
